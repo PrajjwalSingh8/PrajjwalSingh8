@@ -143,5 +143,63 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalSing
 <img src="https://komarev.com/ghpvc/?username=PrajjwalSingh8&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌦️ WeatherNova | AI Powered Weather Web App |
+| 🧮 Advanced Calculator | Modern Calculator using HTML, CSS & JavaScript |
+| 🤖 AI Projects | Machine Learning & AI Experiments |
+| 💻 DSA Practice | LeetCode & C++ Problem Solving |
+
+---
+
+# 📚 Currently Learning
+
+- 🐍 Python
+- ⚛️ React.js
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence
+- 📊 Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Solve 300+ DSA Problems
+- ✅ Build 20+ Projects
+- ✅ Contribute to Open Source
+- ✅ Participate in National Hackathons
+- ✅ Get a Software Development Internship
+
+---
+
+# 🌟 Quote
+
+> **"Code. Learn. Build. Repeat."** 🚀
+
+---
+
+<p align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="350"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
+
+<p align="center">
+
+Made with ❤️ by **Prajjwal Singh**
+
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

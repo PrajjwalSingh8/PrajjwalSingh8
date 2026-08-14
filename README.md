@@ -1,205 +1,165 @@
+# 👋 Hi, I'm Prajjwal Singh
 
-<h1 align="center">Hi 👋, I'm Prajjwal Singh</h1>
+### 💻 B.Tech CSE Student | C++ & DSA | Web Development | AI/ML
 
-<h3 align="center">
-🚀 B.Tech CSE Student | AI Enthusiast | Full Stack Learner | Open Source Explorer
-</h3>
+I'm a Computer Science & Engineering student passionate about **problem solving, software development, and building real-world projects**.
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Full+Stack+Developer;C%2B%2B+%7C+Python+%7C+JavaScript;Hackathon+Enthusiast;Always+Learning+New+Things" />
-</p>
+Currently focused on strengthening my **C++, Data Structures & Algorithms, Web Development, Python, and AI/ML** skills while building projects and participating in hackathons.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Currently learning **C++, Python, DSA & AI**
-- 🌱 Exploring **Full Stack Development**
-- 🤝 Looking to collaborate on Open Source Projects
-- 🎯 Goal: Become an AI Engineer
-- ⚡ Fun Fact: I love building real-world projects.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+* 🎓 B.Tech Computer Science & Engineering Student
+* 💻 Currently practicing **C++ & Data Structures & Algorithms**
+* 🌐 Building projects with **HTML, CSS, JavaScript, React & TypeScript**
+* 🐍 Learning **Python & Machine Learning**
+* 🤖 Exploring **Artificial Intelligence**
+* 🏆 Interested in **Hackathons & Real-World Projects**
+* 🌱 Learning something new every day
+* 🎯 Goal: Become a skilled **Software / AI Engineer**
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+### 💻 Programming
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+`C` `C++` `Python` `JavaScript`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+### 🌐 Web Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+`HTML` `CSS` `JavaScript` `React` `TypeScript`
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+### 🧠 Computer Science
 
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+`Data Structures & Algorithms` `OOP` `DBMS` `Machine Learning`
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+### ⚙️ Tools
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)# 💫 About Me:
-## 🚀 About Me<br><br>🔭 I’m currently working on C++, Data Structures & Algorithms, and real-world coding projects<br><br>👯 I’m looking to collaborate on Open Source Projects, AI/ML Projects, and Hackathon Teams<br><br>🤝 I’m looking for help with Advanced DSA, Open Source Contributions, and Competitive Programming<br><br>🌱 I’m currently learning Python, Data Structures & Algorithms, AI, and Data Science<br><br>💬 Ask me about C++, Python, GitHub, DSA, and Hackathon Preparation<br><br>⚡ Fun fact: I love solving coding problems and turning ideas into projects. I'm always curious about learning new technologies and improving my problem-solving skills.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PrajjwalSingh8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajjwalsinghsisodia@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PrajjwalSingh8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PrajjwalSingh8&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrajjwalSingh8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PrajjwalSingh8&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrajjwalSingh8&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=PrajjwalSingh8&icon=0&color=0)](https://visitcount.itsvg.in)
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=PrajjwalSingh8&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalSingh8&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+`Git` `GitHub` `VS Code`
 
 ---
 
-# 🔥 GitHub Streak
+## 🚀 Featured Projects
 
-<p align="center">
+| Project                     | Description                                      | Tech                    |
+| --------------------------- | ------------------------------------------------ | ----------------------- |
+| 🌦️ **WeatherNova**         | Modern weather forecasting web application       | React · TypeScript      |
+| 🧮 **Advanced Calculator**  | Feature-rich calculator with modern UI           | HTML · CSS · JavaScript |
+| 🛡️ **AI Road Safety**      | AI-based concept for improving road safety       | AI/ML                   |
+| 💻 **DSA Practice**         | C++ solutions and problem-solving practice       | C++                     |
+| 📚 **3rd Year CSE Journey** | Programming practice and weekly learning modules | C++ · DSA               |
+
+---
+
+## 📈 My 3rd Year CSE Journey
+
+```text
+2026
+│
+├── Week 01 → C++ & DSA Practice
+├── Week 02 → Programming Problems
+├── Week 03 → Web Development
+├── Week 04 → React
+├── Week 05 → DBMS
+├── Week 06 → Machine Learning
+└── ... → Keep Building 🚀
+```
+
+> Learning → Building → Improving → Repeating
+
+---
+
+## 🎯 Current Focus
+
+* 🧩 Data Structures & Algorithms
+* 💻 C++ Problem Solving
+* 🌐 Full-Stack Development
+* ⚛️ React.js
+* 🤖 Artificial Intelligence & Machine Learning
+* 🏆 Hackathons
+* 🌱 Open Source
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrajjwalSingh8&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalSingh8&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=PrajjwalSingh8&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 2026 Goals
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajjwalSingh8&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrajjwalSingh8&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
+* [ ] Solve **300+ DSA Problems**
+* [ ] Build **10+ meaningful projects**
+* [ ] Contribute to Open Source
+* [ ] Participate in Hackathons
+* [ ] Build AI/ML projects
+* [ ] Get a Software Development Internship
+* [ ] Improve problem-solving skills
 
 ---
 
-# 📌 Current Focus
+## 🤝 Let's Connect
 
-- 🚀 Building AI Projects
-- 💻 Practicing Data Structures & Algorithms
-- 🌱 Learning React & Full Stack Development
-- 🤝 Contributing to Open Source
-- 🏆 Participating in Hackathons
+I'm always interested in connecting with developers, students, and people working on interesting technology projects.
 
----
+📧 **Email:** Add your professional email here
 
-# 📈 Profile Views
+💼 **LinkedIn:** Add your LinkedIn profile here
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PrajjwalSingh8&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌦️ WeatherNova | AI Powered Weather Web App |
-| 🧮 Advanced Calculator | Modern Calculator using HTML, CSS & JavaScript |
-| 🤖 AI Projects | Machine Learning & AI Experiments |
-| 💻 DSA Practice | LeetCode & C++ Problem Solving |
+🌐 **Portfolio:** Coming Soon 🚀
 
 ---
 
-# 📚 Currently Learning
+## 💡 Developer Mindset
 
-- 🐍 Python
-- ⚛️ React.js
-- 🌐 Full Stack Development
-- 🤖 Artificial Intelligence
-- 📊 Data Structures & Algorithms
+> **"Code. Learn. Build. Repeat." 🚀**
 
 ---
 
-# 🎯 2026 Goals
+<div align="center">
 
-- ✅ Solve 300+ DSA Problems
-- ✅ Build 20+ Projects
-- ✅ Contribute to Open Source
-- ✅ Participate in National Hackathons
-- ✅ Get a Software Development Internship
+### ⭐ Thanks for visiting my profile!
 
----
+**Keep learning. Keep building. Keep improving.**
 
-# 🌟 Quote
+</div>
+## 🤝 Let's Connect
 
-> **"Code. Learn. Build. Repeat."** 🚀
+I'm always interested in connecting with developers, students, and people working on interesting technology projects.
 
----
+💼 **LinkedIn:** [Prajjwal Singh](https://www.linkedin.com/in/prajjwalsingh8/)
 
-<p align="center">
+🧩 **LeetCode:** [PrajjwalSingh23](https://leetcode.com/u/PrajjwalSingh23/)
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="350"/>
+📧 **Email:** Add your professional email here
 
-</p>
+🌐 **Portfolio:** Coming Soon 🚀
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile!
 
-</h3>
+**Keep learning. Keep building. Keep improving.**
 
-<p align="center">
-
-Made with ❤️ by **Prajjwal Singh**
-
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>

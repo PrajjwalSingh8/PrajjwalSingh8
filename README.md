@@ -1,6 +1,6 @@
 <!-- ========================================================= -->
-<!--                    PRAJJWAL SINGH                         -->
-<!--              GitHub Profile README                       -->
+<!--                 PRAJJWAL SINGH                            -->
+<!--              GITHUB PROFILE README                        -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -17,19 +17,19 @@
 <br/>
 
 <a href="mailto:prajjwalsinghsisodia@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prajjwalsingh8/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Prajjwal%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Prajjwal%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/PrajjwalSingh8" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-PrajjwalSingh8-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-PrajjwalSingh8-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/PrajjwalSingh23/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-PrajjwalSingh23-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-PrajjwalSingh23-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
@@ -47,9 +47,11 @@ class PrajjwalSingh {
 
 public:
 
-    string role = "Computer Science & Engineering Student";
+    string role =
+        "Computer Science & Engineering Student";
 
     vector<string> interests = {
+
         "Data Structures & Algorithms",
         "Full Stack Development",
         "Artificial Intelligence",
@@ -57,9 +59,11 @@ public:
         "Problem Solving",
         "Hackathons",
         "Open Source"
+
     };
 
     vector<string> technologies = {
+
         "C++",
         "C",
         "Python",
@@ -70,6 +74,7 @@ public:
         "Tailwind CSS",
         "Git",
         "GitHub"
+
     };
 
     string currentlyLearning =
@@ -77,70 +82,8 @@ public:
 
     string goal =
         "Build useful products that solve real-world problems.";
-# 🏆 Certifications & Achievements
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/prajjwalsingh8/" target="_blank">
-  <img src="https://img.shields.io/badge/🏆%20View%20My%20Certifications%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-  📜 My certifications, learning achievements, hackathon activities
-  and professional accomplishments are available on my LinkedIn profile.
-</p>
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-### 🏅
-
-**Technical Certifications**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀
-
-**Hackathons & Competitions**
-
-</td>
-
-<td align="center" width="33%">
-
-### 📚
-
-**Learning & Development**
-
-</td>
-
-</tr>
-</table>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/prajjwalsingh8/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile%20%26%20Certificates-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
 };
-
-
-
-
-
-
-
-
-
 
 
 

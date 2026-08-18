@@ -1,165 +1,174 @@
-# 👋 Hi, I'm Prajjwal Singh
+# 👋 Hey, I'm Prajjwal Singh 🚀
 
-### 💻 B.Tech CSE Student | C++ & DSA | Web Development | AI/ML
+### 💻 Computer Science & Engineering Student • Full Stack Developer • Problem Solver • AI & Tech Enthusiast
 
-I'm a Computer Science & Engineering student passionate about **problem solving, software development, and building real-world projects**.
-
-Currently focused on strengthening my **C++, Data Structures & Algorithms, Web Development, Python, and AI/ML** skills while building projects and participating in hackathons.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=181717" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=yellow" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-* 🎓 B.Tech Computer Science & Engineering Student
-* 💻 Currently practicing **C++ & Data Structures & Algorithms**
-* 🌐 Building projects with **HTML, CSS, JavaScript, React & TypeScript**
-* 🐍 Learning **Python & Machine Learning**
-* 🤖 Exploring **Artificial Intelligence**
-* 🏆 Interested in **Hackathons & Real-World Projects**
-* 🌱 Learning something new every day
-* 🎯 Goal: Become a skilled **Software / AI Engineer**
+I'm a **B.Tech Computer Science & Engineering student** who loves building projects, solving programming problems, exploring modern technologies and participating in hackathons.
+
+- 🎓 B.Tech CSE Student
+- 💻 Currently focused on **DSA & Full Stack Development**
+- 🚀 Building real-world projects with **React, JavaScript, C++ & Python**
+- 🤖 Exploring **AI, Machine Learning & Developer Tools**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🏆 Interested in **Hackathons, Open Source & Tech Competitions**
+- 🌐 Building modern and responsive web applications
+- 📚 Always learning something new
+- ⚡ Goal: **Build products that people actually use**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### 👨‍💻 Languages
 
-`C` `C++` `Python` `JavaScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,java" />
+</p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 
-`HTML` `CSS` `JavaScript` `React` `TypeScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
 
-### 🧠 Computer Science
+### ⚙️ Backend & Database
 
-`Data Structures & Algorithms` `OOP` `DBMS` `Machine Learning`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
 
-### ⚙️ Tools
+### 🔧 Tools & Platforms
 
-`Git` `GitHub` `VS Code`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker,aws" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 🔥 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                     | Description                                      | Tech                    |
-| --------------------------- | ------------------------------------------------ | ----------------------- |
-| 🌦️ **WeatherNova**         | Modern weather forecasting web application       | React · TypeScript      |
-| 🧮 **Advanced Calculator**  | Feature-rich calculator with modern UI           | HTML · CSS · JavaScript |
-| 🛡️ **AI Road Safety**      | AI-based concept for improving road safety       | AI/ML                   |
-| 💻 **DSA Practice**         | C++ solutions and problem-solving practice       | C++                     |
-| 📚 **3rd Year CSE Journey** | Programming practice and weekly learning modules | C++ · DSA               |
+<table>
+<tr>
+<td width="50%">
+
+### 🌦️ WeatherNova
+
+Modern weather dashboard built with React and Vite.
+
+**Tech:** React • JavaScript • API • CSS
+
+</td>
+
+<td width="50%">
+
+### 🧮 Advanced Calculator
+
+Modern calculator application with a premium UI and powerful functionality.
+
+**Tech:** HTML • CSS • JavaScript
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛡️ AI Scam Detector
+
+AI-powered concept for detecting suspicious messages and online scams.
+
+**Tech:** React • JavaScript • AI
+
+</td>
+
+<td width="50%">
+
+### 🚦 AI in Road Safety
+
+Hackathon project focused on improving road safety using AI-based solutions.
+
+**Tech:** AI • Web • Data
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 My 3rd Year CSE Journey
+## 🧠 Coding & Problem Solving
+
+<p align="center">
+
+💻 **Data Structures & Algorithms**
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+🔥 **LeetCode Practice**
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+⚡ **C++ Problem Solving**
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+🏆 **Hackathons**
+
+</p>
+
+---
+
+## 📚 Currently Learning
 
 ```text
-2026
-│
-├── Week 01 → C++ & DSA Practice
-├── Week 02 → Programming Problems
-├── Week 03 → Web Development
-├── Week 04 → React
-├── Week 05 → DBMS
-├── Week 06 → Machine Learning
-└── ... → Keep Building 🚀
-```
+DSA                    ███████████████░░░░░  75%
+C++                    ████████████████░░░░  80%
+React                  ██████████████░░░░░░  70%
+JavaScript             ██████████████░░░░░░  70%
+Python                 ████████████░░░░░░░░  60%
+Full Stack Development ███████████░░░░░░░░░  55%
+AI / Machine Learning  █████████░░░░░░░░░░░  45%
 
-> Learning → Building → Improving → Repeating
 
----
 
-## 🎯 Current Focus
-
-* 🧩 Data Structures & Algorithms
-* 💻 C++ Problem Solving
-* 🌐 Full-Stack Development
-* ⚛️ React.js
-* 🤖 Artificial Intelligence & Machine Learning
-* 🏆 Hackathons
-* 🌱 Open Source
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PrajjwalSingh8&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalSingh8&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PrajjwalSingh8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 2026 Goals
-
-* [ ] Solve **300+ DSA Problems**
-* [ ] Build **10+ meaningful projects**
-* [ ] Contribute to Open Source
-* [ ] Participate in Hackathons
-* [ ] Build AI/ML projects
-* [ ] Get a Software Development Internship
-* [ ] Improve problem-solving skills
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, students, and people working on interesting technology projects.
-
-📧 **Email:** Add your professional email here
-
-💼 **LinkedIn:** Add your LinkedIn profile here
-
-🌐 **Portfolio:** Coming Soon 🚀
-
----
-
-## 💡 Developer Mindset
-
-> **"Code. Learn. Build. Repeat." 🚀**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep learning. Keep building. Keep improving.**
-
-</div>
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, students, and people working on interesting technology projects.
-
-💼 **LinkedIn:** [Prajjwal Singh](https://www.linkedin.com/in/prajjwalsingh8/)
-
-🧩 **LeetCode:** [PrajjwalSingh23](https://leetcode.com/u/PrajjwalSingh23/)
-
-📧 **Email:** Add your professional email here
-
-🌐 **Portfolio:** Coming Soon 🚀
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep learning. Keep building. Keep improving.**
-
-</div>

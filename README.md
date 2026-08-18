@@ -373,6 +373,23 @@ Personal developer portfolio.
 **Let's build something amazing together.**
 
 </p>
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/prajjwalsingh8/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Prajjwal%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/PrajjwalSingh23/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-PrajjwalSingh23-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Prajjwal%20Singh-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>

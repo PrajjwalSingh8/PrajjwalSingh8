@@ -34,7 +34,6 @@ Building projects, solving problems and continuously learning new technologies.
 </div>
 
 ---  };
-
 # 🚀 About Me
 
 ```cpp
@@ -73,7 +72,72 @@ public:
 
     string goal =
         "Build useful products that solve real-world problems.";
-     ---
+};
+```
+
+---
+
+# ⚡ Quick Profile
+
+<p align="center">
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### 💻
+### DSA
+
+C++  
+Problem Solving
+
+</td>
+
+<td align="center" width="20%">
+
+### 🌐
+### Web
+
+HTML • CSS  
+JavaScript • React
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤖
+### AI
+
+AI / ML  
+Exploring
+
+</td>
+
+<td align="center" width="20%">
+
+### 🏆
+### Hackathons
+
+Building  
+Competing
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀
+### Projects
+
+Real-World  
+Applications
+
+</td>
+
+</tr>
+</table>
+
+</p>
 
 # ⚡ Quick Profile
 

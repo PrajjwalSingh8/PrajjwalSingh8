@@ -1,40 +1,35 @@
-<!-- ========================================================= -->
-<!--                 PRAJJWAL SINGH                            -->
-<!--              GITHUB PROFILE README                        -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm **Prajjwal Singh** 🚀
+# 👋 Hi, I'm Prajjwal Singh
 
 ### 💻 Computer Science & Engineering Student
-### Full Stack Developer • DSA Problem Solver • AI & Tech Enthusiast
+### 🚀 DSA • Full Stack Development • AI • Problem Solving
 
 <p>
-  Building practical software, solving problems and turning ideas into real-world projects.
+Building projects, solving problems and continuously learning new technologies.
 </p>
 
-<br/>
+<br>
 
 <a href="mailto:prajjwalsinghsisodia@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/prajjwalsingh8/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Prajjwal%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/prajjwalsingh8/">
+<img src="https://img.shields.io/badge/LinkedIn-Prajjwal%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/PrajjwalSingh8" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-PrajjwalSingh8-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/PrajjwalSingh8">
+<img src="https://img.shields.io/badge/GitHub-PrajjwalSingh8-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://leetcode.com/u/PrajjwalSingh23/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-PrajjwalSingh23-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/PrajjwalSingh23/">
+<img src="https://img.shields.io/badge/LeetCode-PrajjwalSingh23-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PrajjwalSingh8&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PrajjwalSingh8&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge">
 
 </div>
 
@@ -51,7 +46,6 @@ public:
         "Computer Science & Engineering Student";
 
     vector<string> interests = {
-
         "Data Structures & Algorithms",
         "Full Stack Development",
         "Artificial Intelligence",
@@ -59,11 +53,9 @@ public:
         "Problem Solving",
         "Hackathons",
         "Open Source"
-
     };
 
     vector<string> technologies = {
-
         "C++",
         "C",
         "Python",
@@ -74,7 +66,6 @@ public:
         "Tailwind CSS",
         "Git",
         "GitHub"
-
     };
 
     string currentlyLearning =
@@ -82,17 +73,140 @@ public:
 
     string goal =
         "Build useful products that solve real-world problems.";
-    <!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                      -->
-<!-- ========================================================= -->
+     ---
+
+# ⚡ Quick Profile
+
+<p align="center">
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### 💻
+### DSA
+
+C++  
+Problem Solving
+
+</td>
+
+<td align="center" width="20%">
+
+### 🌐
+### Web
+
+HTML • CSS  
+JavaScript • React
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤖
+### AI
+
+AI / ML  
+Exploring
+
+</td>
+
+<td align="center" width="20%">
+
+### 🏆
+### Hackathons
+
+Building  
+Competing
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀
+### Projects
+
+Real-World  
+Applications
+
+</td>
+
+</tr>
+</table>
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" />
+
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+
+</p>
+
+---
+
+## 🔧 Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+
+</p>
+
+---
+
+## 🤖 AI & Developer Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AI%20Tools-Exploring-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white" />
+
+</p>
+
+---
+
+## 📚 Core Areas
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563EB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Problem%20Solving-22C55E?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-F59E0B?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge" />
+
+</p>
+
+---
+---
 
 # 🚀 Featured Projects
 
 <p align="center">
-  <b>Some of the projects I've built and worked on 👨‍💻</b>
+  <b>Real-world projects I've built, explored and contributed to 🚀</b>
 </p>
 
-<br/>
+<br>
 
 <table>
 
@@ -102,23 +216,26 @@ public:
 
 ## 🛡️ SafeNet AI
 
-AI-powered project focused on **online safety, threat detection and intelligent protection**.
+AI-focused project designed around online safety and intelligent threat detection.
 
 ### 🔥 Highlights
 
-- 🤖 AI-powered approach
+- 🤖 AI-powered solution
 - 🛡️ Safety & threat detection
-- 🌐 Modern web interface
-- 🚀 Real-world problem solving
+- 🌐 Web-based application
+- 💡 Real-world problem solving
+- 🚀 Hackathon-oriented development
 
-### 🧰 Tech
+### 🧰 Technologies
 
-`AI` `Web Development` `JavaScript`
+`AI` `JavaScript` `Web Development`
 
-<br/>
+<br>
 
-<a href="https://github.com/PrajjwalSingh8/SafeNet-AI" target="_blank">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/PrajjwalSingh8/SafeNet-AI">
+
+<img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </td>
@@ -127,23 +244,26 @@ AI-powered project focused on **online safety, threat detection and intelligent 
 
 ## 🧮 Advanced Calculator
 
-A **modern and feature-rich calculator** built with a clean interface and interactive functionality.
+A modern calculator project focused on a clean interface and practical functionality.
 
 ### 🔥 Highlights
 
 - 🧮 Advanced calculations
 - 🎨 Modern UI
-- ⚡ Fast & interactive
+- ⚡ Interactive interface
 - 📱 Responsive design
+- 💻 JavaScript-based logic
 
-### 🧰 Tech
+### 🧰 Technologies
 
 `HTML` `CSS` `JavaScript`
 
-<br/>
+<br>
 
-<a href="https://github.com/PrajjwalSingh8/advanced-calculator" target="_blank">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/PrajjwalSingh8/advanced-calculator">
+
+<img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </td>
@@ -156,23 +276,26 @@ A **modern and feature-rich calculator** built with a clean interface and intera
 
 ## 🌦️ WeatherNova
 
-A modern **weather dashboard** designed to provide weather information through a clean and responsive interface.
+Modern weather dashboard built for exploring weather information with a clean web interface.
 
 ### 🔥 Highlights
 
 - 🌤️ Weather dashboard
-- 📍 Location-based weather
-- 📊 Weather information
-- 📱 Responsive interface
+- 📍 Weather information
+- ⚡ Fast interface
+- 🎨 Modern UI
+- 📱 Responsive design
 
-### 🧰 Tech
+### 🧰 Technologies
 
-`React` `Vite` `Tailwind CSS` `JavaScript`
+`React` `Vite` `Tailwind CSS`
 
-<br/>
+<br>
 
-<a href="https://github.com/PrajjwalSingh8/WeatherNova" target="_blank">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/PrajjwalSingh8/WeatherNova">
+
+<img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </td>
@@ -181,23 +304,26 @@ A modern **weather dashboard** designed to provide weather information through a
 
 ## 🧠 DSA — 3rd Year Week 1
 
-A structured repository containing **C++ programming and Data Structures & Algorithms practice**.
+My structured DSA and C++ programming practice repository.
 
-### 🔥 Includes
+### 📚 Includes
 
-- 🔢 Number & Star Patterns
+- ⭐ Star Patterns
+- 🔢 Number Patterns
+- 💻 C++ Programs
 - 🧠 Problem Solving
-- 💻 C++ Practice
-- 📚 DSA Fundamentals
+- 📖 DSA Practice
 
-### 🧰 Tech
+### 🧰 Technologies
 
-`C++` `DSA` `Problem Solving`
+`C++` `DSA`
 
-<br/>
+<br>
 
-<a href="https://github.com/PrajjwalSingh8/3rd-Yr-Week-1-Module" target="_blank">
-<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/PrajjwalSingh8/3rd-Yr-Week-1-Module">
+
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </td>
@@ -210,23 +336,26 @@ A structured repository containing **C++ programming and Data Structures & Algor
 
 ## 📚 DSA — Week 2 Module
 
-Continuation of my **DSA learning journey** with programming problems and solutions.
+Continuation of my DSA learning and programming practice.
 
 ### 🔥 Focus
 
 - 🧠 Algorithms
 - 💻 C++ Solutions
 - 🔍 Problem Solving
-- 📈 Continuous Practice
+- 📈 Consistent Practice
+- 🚀 Coding Improvement
 
-### 🧰 Tech
+### 🧰 Technologies
 
 `C++` `DSA` `Algorithms`
 
-<br/>
+<br>
 
-<a href="https://github.com/PrajjwalSingh8/Week-2-Module" target="_blank">
-<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/PrajjwalSingh8/Week-2-Module">
+
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </td>
@@ -235,23 +364,26 @@ Continuation of my **DSA learning journey** with programming problems and soluti
 
 ## 🏆 HackIndia — Tech Yatris
 
-Hackathon project repository representing my participation in **HackIndia Spark 4 NCR East Region**.
+Hackathon repository for **HackIndia Spark 4 — NCR East Region**.
 
 ### 🔥 Focus
 
 - 💡 Innovation
 - 🏆 Hackathon
 - 👨‍💻 Development
-- 🚀 Problem Solving
+- 🧠 Problem Solving
+- 🚀 Technology
 
 ### 🧰 Category
 
 `Hackathon` `Development` `Innovation`
 
-<br/>
+<br>
 
-<a href="https://github.com/HackIndiaXYZ/hackindia-spark-4-ncr-east-region-tech-yatris" target="_blank">
-<img src="https://img.shields.io/badge/🔗%20View%20Hackathon-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/HackIndiaXYZ/hackindia-spark-4-ncr-east-region-tech-yatris">
+
+<img src="https://img.shields.io/badge/🔗%20View%20Hackathon-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </td>
@@ -262,21 +394,14 @@ Hackathon project repository representing my participation in **HackIndia Spark 
 
 ---
 
-## 📌 Project Highlights
+## 📌 Explore All My Projects
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🛡️%20SafeNet%20AI-AI%20%26%20Security-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌦️%20WeatherNova-React%20%26%20Web-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧮%20Calculator-JavaScript-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠%20DSA-C%2B%2B%20%26%20Algorithms-22C55E?style=for-the-badge"/>
+<a href="https://github.com/PrajjwalSingh8?tab=repositories">
 
-</p>
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white">
 
-<p align="center">
-
-<a href="https://github.com/PrajjwalSingh8?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/🚀%20Explore%20All%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -284,91 +409,116 @@ Hackathon project repository representing my participation in **HackIndia Spark 
 ---
 ---
 
-# 📊 GitHub Stats & Streak
+# 🧠 DSA Journey
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrajjwalSingh8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajjwalSingh8&theme=tokyonight&hide_border=true" width="49%"/>
+### 💻 Data Structures • Algorithms • Problem Solving
 
 </p>
 
-<br/>
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalSingh8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%"/>
-
+I'm consistently practicing DSA to improve my problem-solving,
+algorithmic thinking and coding fundamentals.
 </p>
 
----
+<br>
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajjwalSingh8&theme=tokyo-night&hide_border=true&area=true&custom_title=Prajjwal%20Singh's%20Contribution%20Graph" width="100%"/>
-
-</p>
-
----
-
-# 🌱 Currently Exploring
-
-<p align="center">
+## 📚 Topics I'm Practicing
 
 <table align="center">
 
 <tr>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
-## 🤖
+### 🔢 Arrays
 
-### AI / ML
-
-Exploring Artificial Intelligence & Machine Learning
-
-</td>
-
-<td align="center" width="20%">
-
-## 🧠
-
-### Advanced DSA
-
-Improving Algorithms & Problem Solving
+Searching  
+Sorting  
+Two Pointers  
+Sliding Window
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
-## ⚛️
+### 🔤 Strings
 
-### React
-
-Building Modern Web Interfaces
-
-</td>
-
-<td align="center" width="20%">
-
-## 🌐
-
-### Full Stack
-
-Learning Complete Web Development
+Palindrome  
+Character Handling  
+String Manipulation  
+Hashing
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
-## ☁️
+### 🔗 Linked List
 
-### Cloud
+Traversal  
+Insertion  
+Deletion  
+Two Pointer
 
-Exploring Deployment & Cloud Technologies
+</td>
+
+<td align="center" width="25%">
+
+### 📚 Stack & Queue
+
+Stack  
+Queue  
+Deque  
+Monotonic Structures
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🌳 Trees
+
+Binary Tree  
+BST  
+Traversal  
+Recursion
+
+</td>
+
+<td align="center" width="25%">
+
+### 🕸️ Graphs
+
+BFS  
+DFS  
+Shortest Path  
+Graph Algorithms
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Algorithms
+
+Binary Search  
+Greedy  
+Recursion  
+Dynamic Programming
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠 Problem Solving
+
+LeetCode  
+Patterns  
+Optimization  
+Complexity Analysis
 
 </td>
 
@@ -376,41 +526,48 @@ Exploring Deployment & Cloud Technologies
 
 </table>
 
-</p>
+---
 
-<br/>
-
-### 🔥 Current Learning Focus
+## 🚀 My DSA Practice
 
 ```text
-                    🚀 MY CURRENT FOCUS
+                    🧠 DSA JOURNEY
 
                          PRAJJWAL
                             │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-         🧠                🌐                🤖
-         DSA             DEVELOPMENT           AI
-          │                 │                 │
-          ▼                 ▼                 ▼
-       C++ / DSA          React             ML / AI
-          │                 │                 │
-          ▼                 ▼                 ▼
-     Algorithms        Full Stack       AI Applications
-          │                 │                 │
-          └─────────────────┼─────────────────┘
+                            ▼
+                     📚 Learn Concepts
                             │
                             ▼
-                         🚀 BUILD
----
+                    💻 Implement in C++
+                            │
+                            ▼
+                     🧩 Solve Problems
+                            │
+                            ▼
+                    🔍 Analyze Complexity
+                            │
+                            ▼
+                      🚀 Optimize
+                            │
+                            ▼
+                       🔁 Repeat
+   ---
 
 # 🏆 Hackathons & Achievements
 
 <p align="center">
-  <b>Building, competing and learning through real-world challenges 🚀</b>
+
+### 🚀 Building • Competing • Learning • Growing
+
 </p>
 
-<br/>
+<p align="center">
+I enjoy participating in hackathons and working on practical
+technology-driven solutions to real-world problems.
+</p>
+
+<br>
 
 <table>
 
@@ -422,21 +579,22 @@ Exploring Deployment & Cloud Technologies
 
 ### Tech Yatris — NCR East Region
 
-Participated in **HackIndia Spark 4** and worked on a technology-driven solution as part of the hackathon journey.
+Participated in **HackIndia Spark 4 — NCR East Region** as part of the Tech Yatris hackathon journey.
 
-### 🚀 Highlights
+### 💡 Experience
 
-- 💡 Real-world problem solving
-- 🧠 Innovative technology solution
-- 👨‍💻 Software development
-- 🏆 Hackathon participation
-- 🤝 Collaboration & teamwork
+- 🏆 Hackathon Participation
+- 💻 Technology & Development
+- 🧠 Problem Solving
+- 💡 Innovation
+- 🤝 Collaboration
+- 🚀 Building under challenges
 
-<br/>
+<br>
 
-<a href="https://github.com/HackIndiaXYZ/hackindia-spark-4-ncr-east-region-tech-yatris" target="_blank">
+<a href="https://github.com/HackIndiaXYZ/hackindia-spark-4-ncr-east-region-tech-yatris">
 
-<img src="https://img.shields.io/badge/🔗%20View%20Hackathon%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Hackathon%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -444,19 +602,20 @@ Participated in **HackIndia Spark 4** and worked on a technology-driven solution
 
 <td width="50%">
 
-## 🚀 AI in Road Safety
+## 🚗 AI in Road Safety
 
-### Hackathon Project
+### AI-Powered Safety Concept
 
-Exploring **AI-powered solutions for road safety**, focusing on practical technology that can help improve road safety and awareness.
+Exploring the use of **Artificial Intelligence in Road Safety** to create practical technology-driven solutions.
 
 ### 💡 Focus Areas
 
-- 🚗 Road Safety
 - 🤖 Artificial Intelligence
-- 📊 Intelligent Detection
+- 🚗 Road Safety
 - 🛡️ Safety Technology
+- 📊 Intelligent Detection
 - 💻 Software Development
+- 🌍 Real-World Impact
 
 </td>
 
@@ -470,17 +629,17 @@ Exploring **AI-powered solutions for road safety**, focusing on practical techno
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🏆%20Hackathons-Participated-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆%20Hackathons-Participating-FFD700?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/🤖%20AI%20Projects-Building-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20Projects-Building-2563EB?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/💻%20Projects-Building-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20DSA-Practicing-22C55E?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/🧠%20DSA-Consistent%20Practice-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20AI-Exploring-7C3AED?style=for-the-badge">
 
 </p>
 
-<br/>
+<br>
 
 <table align="center">
 
@@ -492,27 +651,8 @@ Exploring **AI-powered solutions for road safety**, focusing on practical techno
 
 **Hackathons**
 
-Participating & Building
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI**
-
-Exploring & Developing
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**DSA**
-
-Continuous Practice
+Participating in  
+Technical Challenges
 
 </td>
 
@@ -522,7 +662,30 @@ Continuous Practice
 
 **Projects**
 
-Real-World Development
+Building  
+Real-World Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**DSA**
+
+Continuous  
+Problem Solving
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI**
+
+Exploring  
+Modern Technology
 
 </td>
 
@@ -532,17 +695,18 @@ Real-World Development
 
 ---
 
-## 📜 Certificates & Professional Achievements
+# 📜 Certifications & Learning
 
 <p align="center">
 
-My certificates, learning achievements and professional activities are available on my LinkedIn profile.
+My certifications, courses, learning achievements and professional activities
+are available on my LinkedIn profile.
 
-<br/><br/>
+<br><br>
 
-<a href="https://www.linkedin.com/in/prajjwalsingh8/" target="_blank">
+<a href="https://www.linkedin.com/in/prajjwalsingh8/">
 
-<img src="https://img.shields.io/badge/📜%20View%20Certificates%20%26%20Achievements-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/📜%20View%20My%20Certificates%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </a>
 
@@ -550,8 +714,206 @@ My certificates, learning achievements and professional activities are available
 
 ---
 
+## 🌟 What I'm Building Towards
+
+```text
+                    🚀 PRAJJWAL'S JOURNEY
+
+                           💡
+                           │
+                           ▼
+                    Learn Technology
+                           │
+                           ▼
+                     Build Projects
+                           │
+                           ▼
+                    Solve Problems
+                           │
+                           ▼
+                     Join Hackathons
+                           │
+                           ▼
+                     Improve Skills
+                           │
+                           ▼
+                    🚀 Build Impact
+  ---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrajjwalSingh8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajjwalSingh8&theme=tokyonight&hide_border=true" width="49%">
+
+</p>
+
+<br>
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalSingh8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%">
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajjwalSingh8&theme=tokyo-night&hide_border=true&area=true&custom_title=Prajjwal%20Singh%20Contribution%20Graph" width="100%">
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrajjwalSingh8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4">
+
+</p>
+
+---
+
+# 📌 GitHub Activity
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+### 💻
+
+**Code**
+
+Building & Practicing
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠
+
+**Learn**
+
+DSA & Technologies
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀
+
+**Build**
+
+Real-World Projects
+
+</td>
+
+</tr>
+
+</table>
+
+---
+---
+
+# 🌱 Currently Exploring
+
+<p align="center">
+  <b>Learning • Experimenting • Building • Improving 🚀</b>
+</p>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="20%">
+
+## 🤖
+
+### AI / ML
+
+Exploring Artificial Intelligence, Machine Learning and AI-powered applications.
+
+</td>
+
+<td align="center" width="20%">
+
+## 🧠
+
+### Advanced DSA
+
+Improving algorithms, data structures and problem-solving skills.
+
+</td>
+
+<td align="center" width="20%">
+
+## ⚛️
+
+### React
+
+Building modern, interactive and responsive web applications.
+
+</td>
+
+<td align="center" width="20%">
+
+## 🌐
+
+### Full Stack
+
+Learning frontend, backend, APIs and complete web application development.
+
+</td>
+
+<td align="center" width="20%">
+
+## ☁️
+
+### Cloud & Deployment
+
+Exploring deployment, hosting and modern development workflows.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🔥 Current Learning Focus
+
+```text
+                    🚀 CURRENTLY EXPLORING
+
+                         PRAJJWAL
+                            │
+            ┌───────────────┼───────────────┐
+            │               │               │
+           🧠              🌐              🤖
+           DSA          DEVELOPMENT          AI
+            │               │               │
+            ▼               ▼               ▼
+         C++ / DSA        React          Python / ML
+            │               │               │
+            ▼               ▼               ▼
+       Algorithms       Full Stack      AI Applications
+            │               │               │
+            └───────────────┼───────────────┘
+                            │
+                            ▼
+                       🚀 BUILD PROJECTS
 };
-
-
-
-
+    

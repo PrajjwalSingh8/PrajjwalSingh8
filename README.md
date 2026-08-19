@@ -33,7 +33,7 @@ Building projects, solving problems and continuously learning new technologies.
 
 </div>
 
----
+---  };
 
 # 🚀 About Me
 
@@ -915,5 +915,6 @@ Exploring deployment, hosting and modern development workflows.
                             │
                             ▼
                        🚀 BUILD PROJECTS
-};
+    };
+
     

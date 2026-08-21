@@ -32,8 +32,7 @@ Building projects, solving problems and continuously learning new technologies.
 <img src="https://komarev.com/ghpvc/?username=PrajjwalSingh8&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge">
 
 </div>
-
----  };
+---
 # 🚀 About Me
 
 🎓 Computer Science & Engineering Student (AKTU)
@@ -49,9 +48,7 @@ Building projects, solving problems and continuously learning new technologies.
 Build real-world projects and become a Software Engineer.
 
 ⚡ Fun Fact:
-I love solving LeetCode problems and building modern web projects.
-
-};
+I love solving LeetCode problems and building modern web projects
 
 
 ---

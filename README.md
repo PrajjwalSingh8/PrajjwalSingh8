@@ -36,44 +36,23 @@ Building projects, solving problems and continuously learning new technologies.
 ---  };
 # 🚀 About Me
 
-```cpp
-class PrajjwalSingh {
+🎓 Computer Science & Engineering Student (AKTU)
 
-public:
+💻 Passionate about Data Structures & Algorithms, Full Stack Development, and AI/ML.
 
-    string role =
-        "Computer Science & Engineering Student";
+🌱 Currently Learning:
+- Advanced DSA (C++)
+- React + Tailwind CSS
+- Python & AI/ML
 
-    vector<string> interests = {
-        "Data Structures & Algorithms",
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Web Development",
-        "Problem Solving",
-        "Hackathons",
-        "Open Source"
-    };
+🎯 Goal:
+Build real-world projects and become a Software Engineer.
 
-    vector<string> technologies = {
-        "C++",
-        "C",
-        "Python",
-        "JavaScript",
-        "React",
-        "HTML",
-        "CSS",
-        "Tailwind CSS",
-        "Git",
-        "GitHub"
-    };
+⚡ Fun Fact:
+I love solving LeetCode problems and building modern web projects.
 
-    string currentlyLearning =
-        "Advanced DSA • React • Full Stack • AI/ML";
-
-    string goal =
-        "Build useful products that solve real-world problems.";
 };
-```
+
 
 ---
 
@@ -594,7 +573,7 @@ Complexity Analysis
 
 ## 🚀 My DSA Practice
 
-```text
+text
                     🧠 DSA JOURNEY
 
                          PRAJJWAL
@@ -780,7 +759,7 @@ are available on my LinkedIn profile.
 
 ## 🌟 What I'm Building Towards
 
-```text
+text
                     🚀 PRAJJWAL'S JOURNEY
 
                            💡
@@ -959,7 +938,7 @@ Exploring deployment, hosting and modern development workflows.
 
 # 🔥 Current Learning Focus
 
-```text
+text
                     🚀 CURRENTLY EXPLORING
 
                          PRAJJWAL
